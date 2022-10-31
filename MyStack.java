@@ -5,7 +5,7 @@
  * @Class: Data Structure, Dr. Mahsa Soheil Shamaee
  */
 
- // Stack
+// Stack
 class MyStack {
     private int size;
     private int top;
