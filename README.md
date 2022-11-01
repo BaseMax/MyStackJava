@@ -4,7 +4,16 @@ My Stack Implementation In Java
 
 ## MyStackJava Functions
 
-- 
+- `public MyStack(int size)`: Create a new stack with a given size
+- `public boolean push(int value)`: Push an element to the top of the stack and return true.
+- `public int pop()`: Pop an element from the top of the stack and return the value.
+- `public int peek()`: Peek the top value of the stack and return the value.
+- `public boolean isEmpty()`: Return true if the stack is empty.
+- `public boolean isFull()`: Return true if the stack is full.
+- `public int size()`: Return the size of the stack.
+- `public boolean resize(int newSize)`: Resize the stack to a new size.
+- `public void printStack()`: Print the stack.
+
 ## Using MyStackJava
 
 ```
