@@ -1,4 +1,4 @@
-# MyStackJava
+# MyStack.Java
 
 **My Stack** Implementation In **Java**
 
