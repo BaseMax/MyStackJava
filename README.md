@@ -16,7 +16,7 @@ My Stack Implementation In Java
 
 ## Using MyStackJava
 
-```
+```java
 public class HelloWorld {
     public static void main(String []args){
         System.out.println("Hello, World!");
