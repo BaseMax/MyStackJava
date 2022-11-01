@@ -1,6 +1,8 @@
 # MyStackJava
 
-My Stack Implementation In Java
+**My Stack** Implementation In *Java**
+
+Here we are going to design a full-featured class for Stack's Data structure.
 
 ## MyStackJava Functions
 
